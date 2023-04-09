@@ -4,5 +4,5 @@ Displays backend token data from the API site located at [https://dps.fyi/token-
 Supported blockchains:
 --Binance Smart Chain (BSC)
 
-Learn more at: [https://dps.fyi/token](https://dps.fyi/token "https://dps.fyi/token")
+Learn more at: [-](- "-")
 
